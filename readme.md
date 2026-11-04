@@ -16,3 +16,11 @@
 - 본 Repository 및 Fork한 Repository는 Public으로 외부에 공개됩니다.
 - 개인정보, 비밀번호, API Key 등 민감한 정보는 업로드하지 마세요.
 - 프로젝트별 제출 및 평가 방식은 담당 강사의 안내를 따릅니다.
+
+## 김지호 개인 포트폴리오
+
+- [jihodev 고객 온보딩 지원 서비스](%EA%B8%B0%EC%97%85%EC%9A%A9%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EB%AC%B8%EC%84%9C%EA%B4%80%EB%A6%AC%20%EC%98%A8%EB%B3%B4%EB%94%A9%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B0%9C%EB%B0%9C/)
+- [6장 PPT 다운로드](%EA%B8%B0%EC%97%85%EC%9A%A9%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EB%AC%B8%EC%84%9C%EA%B4%80%EB%A6%AC%20%EC%98%A8%EB%B3%B4%EB%94%A9%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B0%9C%EB%B0%9C/portfolio/jihodev-onboarding-portfolio.pptx?raw=true)
+- [웹 서비스 체험하기](https://firstmile-onboarding-1104.day1companyk-6083.chatgpt.site/)
+
+기업용 클라우드 문서관리 SaaS의 도입 지원 흐름을 구현한 규칙 기반 업무 프로토타입입니다. PPT에는 기획 배경, 프로세스와 기능, 배운 점과 구현 한계를 정리했습니다.

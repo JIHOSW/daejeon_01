@@ -24,3 +24,9 @@
 - [웹 서비스 체험하기](https://firstmile-onboarding-1104.day1companyk-6083.chatgpt.site/)
 
 기업용 클라우드 문서관리 SaaS의 도입 지원 흐름을 구현한 규칙 기반 업무 프로토타입입니다. PPT에는 기획 배경, 프로세스와 기능, 배운 점과 구현 한계를 정리했습니다.
+
+- [AI 블로그 자동화 에이전트](ai%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EC%9E%90%EB%8F%99%ED%99%94%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/)
+- [6장 PPT 다운로드](ai%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EC%9E%90%EB%8F%99%ED%99%94%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/portfolio/AI%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EC%9E%90%EB%8F%99%ED%99%94%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pptx?raw=true)
+- [PDF 보기](ai%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EC%9E%90%EB%8F%99%ED%99%94%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8/portfolio/AI%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EC%9E%90%EB%8F%99%ED%99%94%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
+
+공개 자료 수집, 동향 요약·분석 글 작성, 출처 확인과 검수를 연결하는 Claude Code 기반 블로그 글쓰기 에이전트입니다. 분석 글 2편과 동향 요약 1편을 완성했고, 최종 주제와 발행 여부는 사람이 결정합니다. PPT에는 만든 이유, 동작 방식, 원한 가치, 배운 점을 정리했습니다.
